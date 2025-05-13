@@ -2,56 +2,60 @@
 title: Current Projects
 menu:
   main:
-    weight: 1
     name: "Current Projects"
----
+    weight: 1
+
 type: landing
 
 sections:
-  - block: slider
+  - block: markdown
+    id: intro
     content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      title: <center> What does the BAB Lab do? </center>
+      text: <center> <br> We are broadly interested in better understanding the impacts of climate warming and <br> human disturbances on carbon and nutrient cycling in boreal-Arctic terrestrial and aquatic ecosystems. </center>
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      columns: '2'
+      background:
+        text_color_light: false
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
+        
+  - block: markdown
+    content:
+      title: | 
+        What is our approach?
+      text: |
+        We may ask how wildfire and permafrost thaw influence carbon cycling and water quality in boreal lakes? How will the alpine tundra methane sink be altered by warming temperature and shifts in vegetation composition? What are the microbial processes that drive increasing methane emissions from lakes? Can we use data synthesis and statistical models to predict how greenhouse gas exchange from northern ecosystems will change in the future?
+        
+        <br>
+        
+        We use a variety of field and laboratory-based approaches, data synthesis, statistical model development, and remote sensing tools. Some of our field and laboratory approaches include soil and sediment sampling, vegetation surveys, stable isotope analysis, portable greenhouse gas analyzers, soil/sediment incubations, dissolved carbon and nutrient analysis, microbial DNA sequencing, soil organic carbon analysis, and GIS.
+    design:
+      columns: '2'
+      background:
+        text_color_light: true
+        image:
+          filename: sunset-lake.JPG
+          filters: 
+            brightness: 0.6
+          size: cover
+          position: center
+          parallax: true
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
+        
+  - block: markdown
+    content:
+      title: |
+        Our research can be divided into the following broad themes:
+      text: |
+          1.  Quantifying the exchange of carbon and greenhouse gases between terrestrial plants, soils, and the atmosphere [Check out our Terrestrial Projects]({{< relref "current-projects/terrestrial/_index.md" >}})
+          2.  Understanding the influence of climate change and human disturbances on water quality, carbon exchange, and nutrient cycling in Northern freshwater ecosystems. [Check out our Aquatic Projects]({{< relref "current-projects/aquatic/_index.md" >}})
+          3.  Data synthesis and statistical scaling of carbon emission across the boreal-Arctic region. [Check out our Scaling Projects]({{< relref "current-projects/scaling/_index.md" >}})
+    design:
+      background:
+        text_color_light: false
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
+
 ---

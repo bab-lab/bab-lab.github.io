@@ -60,6 +60,6 @@ email: 'kmcgu@student.ubc.ca'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
-Kelsey is currently pursuing a Masters of Science within the lab, where her thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics in Kaska (Northern British Columbia) lakes. Before entering the lab, she earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find Kelsey listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.
+I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics in Kaska (Northern British Columbia) lakes. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.

@@ -7,8 +7,8 @@ main:
   - name: Current Projects
     url: "/current-projects"
     weight: 1
-  - name: Opportunities
-    url: "/opportunities/"
+  - name: Prospective Students
+    url: "/prospective Students/"
     weight: 2
   - name: People
     url: "/people/"
