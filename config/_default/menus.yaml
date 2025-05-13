@@ -5,20 +5,20 @@
 
 main:
   - name: Current Projects
-    url: current-projects
-    weight: 10
+    url: "/current-projects"
+    weight: 1
   - name: Opportunities
-    url: opportunities
-    weight: 20
+    url: "/opportunities/"
+    weight: 2
   - name: People
-    url: people
-    weight: 30
+    url: "/people/"
+    weight: 3
   - name: Contact
-    url: contact
-    weight: 40
+    url: "/contact/"
+    weight: 4
   - name: Publications
-    url: publication
-    weight: 50
-  - name: Boreal-Arctic Resources
-    url: education
-    weight: 60
+    url: "/publication/"
+    weight: 5
+  - name: Teaching & Outreach
+    url: "/teach-outreach/"
+    weight: 6
