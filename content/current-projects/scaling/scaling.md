@@ -1,7 +1,11 @@
 ---
-title: Current Projects
-date: 2025-02-07
-
+title: Scaling Projects
+menu:
+  main:
+    parent: "Current Projects"
+    weight: 4
+    name: "Scaling"
+---
 type: landing
 
 sections:
