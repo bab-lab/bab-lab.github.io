@@ -7,26 +7,24 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Contact us!
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        
+      email: mckenzie.kuhn@ubc.ca
+      phone: 604 822 2985
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 1984 West Mall
+        city: Vancouver
+        region: BC
+        postcode: 'V6T 1Z4'
+        country: Canada
+        country_code: CA
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '49.266'
+        longitude: '-123.256'
+      directions: Enter Geography Building and head to the second floor, GEOG240A is Dr. Kuhn's office!
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      appointment_url: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

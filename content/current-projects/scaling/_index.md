@@ -41,7 +41,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Check out our work on scaling!?
+      - title: Check out our work on scaling!
         content: 'Most recently we have been working with collaborators from Woodwell Climate Research Center and the Max Planck Institute to develop the most comprehensive carbon dioxide and methane flux dataset for the boreal-Arctic region, to date.'
         align: center
         background:
