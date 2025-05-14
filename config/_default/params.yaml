@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Boreal-Arctic-Biogeochemistry-Lab/BABLab-Website'
+    url: 'https://github.com/Boreal-Arctic-Biogeochemistry-Lab/BAB-Lab-Website'
     content_dir: content
     branch: main
   avatar:
