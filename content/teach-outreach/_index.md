@@ -17,7 +17,7 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: /albums/aquatic/lake-w-peeps.JPG
+          filename: /albums/aquatic/lake-w-peeps.jpg
           filters: 
             brightness: 0.5
           size: cover
@@ -38,7 +38,7 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: albums/aquatic/high-elev-lakepic.jpg
+          filename: albums/aquatic/high-elev-lakepic.JPG
           filters: 
             brightness: 0.5
           size: cover

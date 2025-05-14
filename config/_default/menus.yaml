@@ -13,12 +13,12 @@ main:
   - name: People
     url: "/people/"
     weight: 3
-  - name: Contact
-    url: "/contact/"
+  - name: Teaching & Outreach
+    url: "/teach-outreach/"
     weight: 4
   - name: Publications
     url: "/publication/"
     weight: 5
-  - name: Teaching & Outreach
-    url: "/teach-outreach/"
+  - name: Contact
+    url: "/contact/"
     weight: 6

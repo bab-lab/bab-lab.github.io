@@ -21,7 +21,7 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: /albums/aquatic/lake1.JPG
+          filename: /albums/aquatic/lake1.jpg
           filters: 
             brightness: 0.5
           size: cover
@@ -43,7 +43,7 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: /albums/aquatic/lake1.JPG
+          filename: /albums/aquatic/lake1.jpg
           filters: 
             brightness: 0.5
           size: cover
