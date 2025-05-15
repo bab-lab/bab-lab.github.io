@@ -63,8 +63,8 @@ sections:
        MSc Student (she/her)
        <img src="mcguire-profile.jpg" alt="Kelsey" width="300" />
       text: |
-        <br> <br> <br> <br>
-        I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics in Kaska (Northern British Columbia) lakes. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.
+        <br> <br> <br>
+        I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics in Kaska (Northern British Columbia) lakes. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia, where I had the opportunity to work in temperate wetlands, tropical savannas/forests, and now I'm moving North to complete the trifecta! Outside of school, you can often find me listening to some music, curled up with a book, and hoping for a rare Vancouver thunderstorm.
         <br> 
         
         **Previous Education**:
@@ -73,6 +73,7 @@ sections:
         
         **Contact:**
         - kelsey.mcguire@ubc.ca
+        - [LinkedIn](https://www.linkedin.com/in/kelsey-mcguire-6b2285206/)
     design:
       columns: '2'
       background:
