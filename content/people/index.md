@@ -63,7 +63,7 @@ sections:
        MSc Student (she/her)
        <img src="mcguire-profile.jpg" alt="Kelsey" width="300" />
       text: |
-        <br> <br> <br>
+        <br> <br>
         I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics in Kaska (Northern British Columbia) lakes. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia, where I had the opportunity to work in temperate wetlands, tropical savannas/forests, and now I'm moving North to complete the trifecta! Outside of school, you can often find me listening to some music, curled up with a book, and hoping for a rare Vancouver thunderstorm.
         <br> 
         
@@ -95,14 +95,18 @@ sections:
        Lyreshka Castro Morales
       subtitle: |
        MSc Student
+       <img src="castromorales-profile.jpg" alt="Lyreshka" width="300" />
       text: |
+        <br> <br> <br>
+        As a Master’s student at the University of British Columbia, I work in northern British Columbia studying how climate change influences methane fluxes in upland tundra. My research focuses on how vegetation (mainly shrubs) interacts with warming temperatures, soil moisture, and nutrient availability to shape methane uptake and emissions. My aim is to understand how these rapidly changing landscapes contribute to, or help mitigate, atmospheric greenhouse gas concentrations. I’m also passionate about making science accessible—whether through mentorship or creative outreach like zines, photography, and illustration. Through my work, I hope to bridge science, community, and creativity to foster more inclusive and grounded approaches to climate communication. 
+        <br>
         
         **Previous Education**:
-        - 
+        - B.S. Marine and Environmental Science, Concentration in Climate and Earth, Alaska Pacific University (Anchorage)
         <br>
         
         **Contact:**
-        - 
+        - lyreshka.castromorales@ubc.ca
     design:
       columns: '2'
       background:
