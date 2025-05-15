@@ -14,6 +14,7 @@ sections:
         <br>
         <center> We are broadly interested in better understanding the impacts of climate warming and human disturbances on carbon and nutrient cycling in boreal-Arctic terrestrial and aquatic ecosystems. Our research group draws on principles and approaches from physical geography including environmental chemistry, earth sciences, geographical sciences, hydrology, limnology, microbiology, and ecology. </center>
         <center> {{< figure src="icon-whitelet.png" >}} </center> 
+        <center> *Our beautiful logo made by our lab designer extraordinaire, Lyreshka! </center> 
     design:
       background:
         text_color_light: true
