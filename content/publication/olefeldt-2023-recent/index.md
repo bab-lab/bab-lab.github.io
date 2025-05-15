@@ -1,6 +1,7 @@
 ---
 title: Recent and future carbon and greenhouse gas balances of peatlands in boreal
   western Canada; accounting for warming, wildfire, and permafrost thaw.
+
 authors:
 - David Olefeldt
 - Cristian Estop Aragones
@@ -13,9 +14,18 @@ authors:
 - Renae Shewan
 - Oliver Sonnentag
 - ' others'
+author_notes:
+- 
+- 
+- 
+- 
+- 
+- 'Lab PI'
+
 date: '2023-01-01'
 publishDate: '2025-05-15T00:24:39.882498Z'
 publication_types:
 - paper-conference
+
 publication: '*AGU Fall Meeting Abstracts*'
 ---

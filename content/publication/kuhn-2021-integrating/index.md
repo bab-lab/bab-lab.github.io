@@ -1,6 +1,7 @@
 ---
 title: Integrating Microbial, Isotopic and Landscape-Scale Observations to Quantify
   Methane Emissions and Isotopic Fluxes from Global High-Latitude Ecosystems
+
 authors:
 - McKenzie Kuhn
 - Carmody McCalley
@@ -13,9 +14,13 @@ authors:
 - Jia Deng
 - Louis Lamit
 - ' others'
+author_notes:
+- 'Lab PI'
+
 date: '2021-01-01'
 publishDate: '2025-05-15T00:24:40.000360Z'
 publication_types:
 - paper-conference
+
 publication: '*AGU Fall Meeting Abstracts*'
 ---

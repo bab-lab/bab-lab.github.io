@@ -1,6 +1,7 @@
 ---
 title: The fractional land cover estimates from the Boreal-Arctic Wetland and Lake
   Dataset (BAWLD), 2021.
+
 authors:
 - David Olefeldt
 - Mikael Hovemyr
@@ -13,9 +14,12 @@ authors:
 - Sarah Finkelstein
 - Hélène Genet
 - ' others'
+
 date: '2021-01-01'
 publishDate: '2025-05-15T00:24:39.975371Z'
 publication_types:
 - article-journal
-publication: '*(No Title)*'
+
+publication: 'Arctic Data Center'
+url_source: https://arcticdata.io/catalog/view/doi:10.18739/A2C824F9X
 ---

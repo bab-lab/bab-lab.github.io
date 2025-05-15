@@ -1,5 +1,6 @@
 ---
 title: A new synthesis of Arctic-boreal carbon fluxes for improved carbon budget estimates
+
 authors:
 - Anna Virkkala
 - Isabel Wargowsky
@@ -12,9 +13,16 @@ authors:
 - Jennifer Watts
 - Tiffany Windholz
 - ' others'
+author_notes:
+-
+-
+-
+- 'Lab PI'
+
 date: '2024-01-01'
 publishDate: '2025-05-15T00:24:39.993937Z'
 publication_types:
 - paper-conference
+
 publication: '*EGU General Assembly Conference Abstracts*'
 ---

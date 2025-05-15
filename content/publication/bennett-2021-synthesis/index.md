@@ -13,9 +13,18 @@ authors:
 - Natalia Erazo
 - Liam Heffernan
 - ' others'
+
+author_notes:
+- 
+- 
+- 
+- 'Lab PI'
+
+
 date: '2021-01-01'
 publishDate: '2025-05-15T00:24:40.019095Z'
 publication_types:
 - paper-conference
+
 publication: '*AGU Fall Meeting Abstracts*'
 ---

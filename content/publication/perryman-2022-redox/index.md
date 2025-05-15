@@ -1,9 +1,10 @@
 ---
 title: Redox-Driven Shifts in Methane Oxidizing Bacteria Control Methane Oxidation
   Rates in Thawing Permafrost Peatlands
+
 authors:
 - Clarice R Perryman
-- McKenzie Ann Kuhn
+- McKenzie Kuhn
 - Mohamed Mohssen
 - Funing Tian
 - Carmody K McCalley
@@ -13,9 +14,14 @@ authors:
 - Alexandra Cory
 - Maria Florencia Fahnestock
 - ' others'
+author_notes:
+- 
+- 'Lab PI'
+
 date: '2022-01-01'
 publishDate: '2025-05-15T00:24:39.863842Z'
 publication_types:
 - paper-conference
+
 publication: '*AGU Fall Meeting Abstracts*'
 ---
