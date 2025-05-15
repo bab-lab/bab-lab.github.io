@@ -32,13 +32,17 @@ sections:
           position: center
           color: '#555'
       - title: How do we use scaling?
-        content: 'Our group uses data synthesis and statistical scaling models to quantify the magnitude and drivers of methane emissions from boreal-Arctic ecosystems. Examples of our research approaches include 1) developing better wetland and lake land cover maps to improve methane emission models, 2) synthesizing available field measurements of methane fluxes to determine environmental drivers of methane and decadal trends in methane emissions, and 3) quantifying methane emissions from the boreal-Arctic region using statistical modeling approaches. Most recently we have been working with collaborators from Woodwell Climate Research Center and the Max Planck Institute to develop the most comprehensive carbon dioxide and methane flux dataset for the boreal-Arctic region, to date.'
+        content: 'Our group uses data synthesis and statistical scaling models to quantify the magnitude and drivers of methane emissions from boreal-Arctic ecosystems. <br>
+        Examples of our research approaches include <br>
+        1) developing better wetland and lake land cover maps to improve methane emission models, <br>
+        2) synthesizing available field measurements of methane fluxes to determine environmental drivers of methane and decadal trends in methane emissions, and <br>
+        3) quantifying methane emissions from the boreal-Arctic region using statistical modeling approaches. Most recently we have been working with collaborators from Woodwell Climate Research Center and the Max Planck Institute to develop the most comprehensive carbon dioxide and methane flux dataset for the boreal-Arctic region, to date.'
         align: center
         background:
           image:
             filename: albums/aquatic/water-w-trees.JPG
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
           color: '#333'
       - title: Check out our work on scaling!

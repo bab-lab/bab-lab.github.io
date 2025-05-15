@@ -9,58 +9,48 @@ menu:
 type: landing
 
 sections:
-  - block: markdown
-    id: terrestrial-projects-intro
+  - block: slider
     content:
-      title: |
-        Terrestrial Projects
-      text: |
-        Northern ecosystems are warming at four times the rate of the global averages, with potentially important consequences for terrestrial carbon storage and emission. Boreal-Arctic soils store vast amounts of carbon which is at risk of being transformed and emitted into the atmosphere as greenhouse gases. Saturated soils, including water-saturated wetlands, are likely to release more methane and carbon dioxide as temperatures continue to rise and as permafrost thaws. Conversely, dry upland ecosystems, including alpine, tundra, and forest soils, are potential sinks of methane due to methane-consuming microbes that live in the soils, but the response of upland ecosystem methane cycling to warming remains unconstrained. <br> 
-    design:
-      columns: '1'
-      background:
-        text_color_light: true
-        image:
-          filename: /albums/terrestrial/tundra-mountain.jpg
-          filters: 
-            brightness: 0.5
-          size: cover
+      slides:
+      - title: Terrestrial Projects
+        content: Walk on through these slides to see what terrestrial projects we're working on!
+        align: center
+        background:
+          image:
+            filename: /albums/terrestrial/tundra-mountain.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: How are terrestrial systems reacting to climate change in the North?
+        content: 'Northern ecosystems are warming at four times the rate of the global averages, with potentially important consequences for terrestrial carbon storage and emission. Boreal-Arctic soils store vast amounts of carbon which is at risk of being transformed and emitted into the atmosphere as greenhouse gases. Saturated soils, including water-saturated wetlands, are likely to release more methane and carbon dioxide as temperatures continue to rise and as permafrost thaws. Conversely, dry upland ecosystems, including alpine, tundra, and forest soils, are potential sinks of methane due to methane-consuming microbes that live in the soils, but the response of upland ecosystem methane cycling to warming remains unconstrained.'
+        align: center
+        background:
+          image:
+            filename: albums/terrestrial/tundra-wpeeps.JPG
+            filters:
+              brightness: 0.5
           position: center
-          parallax: true
-      spacing:
-        padding: ["20px", "0", "20px", "0"]  
-        
-  - block: markdown
-    id: lab-approach
-    content:
-      text: |
-        Our group aims to quantify the impacts of climate warming and related shifts in vegetation on production and consumption of methane (and carbon dioxide!) across terrestrial boreal-Arctic ecosystems. Examples of our approaches include:
-          1) Using stable isotope chemistry to quantify the changing production pathways of methane in wetland ecosystems, 
-          2) Measuring field-based emissions of carbon from alpine tundra ecosystems using portable infrared greenhouse gas analyzers, 
-          3) Using growth chamber experiments to explore the impact of shrub encroachment on methane uptake in northern soils.
-    design:
-      columns: '1'
-      background:
-        text_color_light: true
-        image:
-          filename: /albums/terrestrial/tundra-mountain.jpg
-          filters: 
-            brightness: 0.5
-          size: cover
+          color: '#555'
+      - title: How are we approaching these problems?
+        content: 'Our group aims to quantify the impacts of climate warming and related shifts in vegetation on production and consumption of methane (and carbon dioxide!) across terrestrial boreal-Arctic ecosystems. Examples of our approaches include: <br>
+          1) Using stable isotope chemistry to quantify the changing production pathways of methane in wetland ecosystems, <br>
+          2) Measuring field-based emissions of carbon from alpine tundra ecosystems using portable infrared greenhouse gas analyzers, <br>
+          3) Using growth chamber experiments to explore the impact of shrub encroachment on methane uptake in northern soils. <br>'
+        align: left
+        background:
+          image:
+            filename: albums/terrestrial/traversing.JPG
+            filters:
+              brightness: 0.5
           position: center
-          parallax: true
-      spacing:
-        padding: ["20px", "0", "20px", "0"]  
-        
-  - block: markdown
-    id: terrestrial-photos
-    content:
-      text: |-
-        {{< gallery album = "terrestrial" >}}
+          color: '#333'
     design:
-      columns: '1'
-      background:
-        text_color_light: true
-      spacing:
-        padding: ["20px", "0", "20px", "0"]  
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---

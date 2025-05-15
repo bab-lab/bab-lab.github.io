@@ -78,7 +78,7 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: /albums/aquatic/water-w-trees.JPG
+          filename: sunset-lake.JPG
           filters: 
             brightness: 0.4
           size: cover
