@@ -10,8 +10,6 @@ sections:
     content:
       title: |
         Meet the People who make up the BAB Lab!
-      text: |
-        <center> put something here? </center>
     design:
       columns: '1'
       background:
@@ -19,7 +17,7 @@ sections:
         image:
           filename: /albums/aquatic/water-w-trees.JPG
           filters: 
-            brightness: 0.45
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
@@ -35,7 +33,6 @@ sections:
         Primary Investigator (she/her)
         <img src="kuhn-profile.jpg" alt="McKenzie" width="300" />
       text: |
-        <br> 
         I am a biogeochemist and physical geographer with interests in carbon and nutrient cycling in northern boreal and Arctic ecosystems.  From northern Sweden to western boreal Canada, I look to understand how climate change, including warming temperatures, wildfire, and permafrost thaw, will impact northern ecosystems. In my new role at UBC, I am most excited to share my love for northern research through mentoring undergraduate and graduate students. In my free time I love to explore the great outdoors via waterways and cycling. 
         <br> 
         
@@ -43,7 +40,9 @@ sections:
         - [Assistant professor](https://geog.ubc.ca/profile/mckenzie-kuhn/), Geography Department, University of British Columbia (2024-)
         - NSF Postdoctoral Fellow in Biology, *University of New Hampshire*
         - Postdoctoral Researcher, *Woodwell Climate Research Center*
-        <br>
+        
+        **Education**:
+        - Ph.D., Department of Renewable Resources, University of Alberta
         
         **Contact:**
         - mckenzie.kuhn@ubc.ca

@@ -10,7 +10,7 @@ sections:
       title: |
         Welcome to the Boreal-Arctic Biogeography Lab!
       text: |
-        <center> The BAB Lab is located in the University of British Columbia’s Geography Department. </center>
+        <center> The BAB Lab is located in the University of British Columbia’s Geography Department, which we respectfully acknowledge exists on the traditional, ancestral, unceded territory of the xʷməθkʷəy̓əm (Musqueam). We also recognize that we often work and live on the territories of the Skwxwú7mesh (Squamish), səl̓ilwətaɁɬ (Tsleil-Waututh), and Coast Salish peoples.</center>
         <br>
         <center> We are broadly interested in better understanding the impacts of climate warming and human disturbances on carbon and nutrient cycling in boreal-Arctic terrestrial and aquatic ecosystems. Our research group draws on principles and approaches from physical geography including environmental chemistry, earth sciences, geographical sciences, hydrology, limnology, microbiology, and ecology. </center>
         <center> {{< figure src="icon-whitelet.png" >}} </center> 
