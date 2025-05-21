@@ -5,42 +5,38 @@ type: landing
 
 sections:
   - block: markdown
+    id: general-info
     content:
       title: |
-        Mentorship Philosophy
+        Interested in Joining the Lab?
       text: |
-        I started my journey as an Arctic scientist as an undergraduate with the Polaris Project. Through my experiences as a young scientist working in eastern Siberia, I had the opportunity to work with academic and research mentors that thoughtfully guided me through the ups and downs of field work and research. They showed me the ropes, instilled a sense of confidence in me, and taught me about the vulnerable northern ecosystems that are facing rapid changes due to climate change. 
-        <br>
-        
-        I have been lucky enough to have been surrounded by incredible mentors from undergrad through my PhD experience and as a postdoctoral fellow. The relationships I formed with my mentors was the number one factor that led me to pursuit a career in Arctic Science. Now, as a mentor myself, my goal is to give back to the next generation of scientists through mentoring undergraduate and graduate students. I especially enjoy bringing students to the field and helping them develop their own research projects and interests. One of my mentorship philosophies is to prepare students with the relevant background and methodological skillsets they need to learn how to ask questions and learn how to connect background information to the discoveries they make in the field. The joy of discovery and making connections is one of the best aspects of research to me. 
+        <center> We are located in the Department of Geography at the University of British Columbia in beautiful Vancouver, BC. </center>
     design:
-      columns: '2'
       background:
         text_color_light: true
         image:
-          filename: albums/aquatic/lake-w-peeps.jpg
+          filename: albums/aquatic/lake1.jpg
           filters: 
-            brightness: 0.4
+            brightness: 0.6
           size: cover
           position: center
           parallax: true
       spacing:
         padding: ["20px", "0", "10px", "0"]
-  
+
   - block: markdown
-    id: general-info
+    id: current-postings
     content:
       title: |
-        Interested in Joining the Lab?
-      subtitle: |
-        We are currently looking to fill 1-2 graduate student positions for the 2025-2026 admissions cycle. <br> If you are interested, please fill out the google form below. <br> 
+        <center> Current Positions! </center>
       text: |
-        <center> We are located in the Department of Geography at the University of British Columbia in beautiful Vancouver, BC. </center>
+        <center> We are currently looking to fill 1-2 graduate student positions for the 2025-2026 admissions cycle. We are looking for 1-2 graduate students to join the team to work on our NSERC Discovery funded alpine tundra methane cycling project, with fieldwork in Northern BC and Yukon. If you are interested, please fill out the prospective student Google Form. </center>
     design:
+      columns: '1'
       background:
         text_color_light: false
       spacing:
-        padding: ["20px", "0", "10px", "0"]
+        padding: ["20px", "0", "20px", "0"] 
   
   - block: markdown
     id: grad-info
@@ -54,9 +50,16 @@ sections:
     design:
       columns: '2'
       background:
-        text_color_light: false
+        text_color_light: true
+        image:
+          filename: albums/aquatic/lake-w-peeps.jpg
+          filters: 
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
       spacing:
-        padding: ["20px", "0", "10px", "0"] 
+        padding: ["20px", "0", "20px", "0"] 
 
   - block: markdown
     id: undergrad-info
@@ -68,28 +71,16 @@ sections:
     design:
       columns: '2'
       background:
-        text_color_light: false
+        text_color_light: true
+        image:
+          filename: sunset-lake.jpg
+          filters: 
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
       spacing:
         padding: ["20px", "0", "20px", "0"] 
         
-  - block: markdown
-    id: current-postings
-    content:
-      title: |
-        <center> Current Positions! </center>
-      text: |
-        We are currently looking to fill 1-2 graduate student positions for the 2025-2026 admissions cycle. We are looking for 1-2 graduate students to join the team to work on our NSERC Discovery funded alpine tundra methane cycling project, with fieldwork in Northern BC and Yukon. If you are interested, please fill out the prospective student Google Form.   
-    design:
-      columns: '1'
-      background:
-        text_color_light: true
-        image:
-          filename: albums/aquatic/lake-w-peeps.jpg
-          filters: 
-            brightness: 0.4
-          size: cover
-          position: center
-          parallax: true
-      spacing:
-        padding: ["20px", "0", "20px", "0"]      
+     
 ---
