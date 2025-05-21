@@ -17,7 +17,7 @@ sections:
         image:
           filename: albums/aquatic/lake1.jpg
           filters: 
-            brightness: 0.6
+            brightness: 0.6<center> GEOS102 <br> Our Changing Environment: Climate and Ecosystems <center>
           size: cover
           position: center
           parallax: true
@@ -73,7 +73,7 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: sunset-lake.jpg
+          filename: sunset-lake.JPG
           filters: 
             brightness: 0.5
           size: cover
