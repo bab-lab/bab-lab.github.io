@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: The Boreal-Arctic Biogeochemistry Lab # Website name
-baseURL: 'https://bablab.github.io' # Website URL
+baseURL: 'https://bab-lab.github.io' # Website URL
 
 ############################
 ## LANGUAGE
