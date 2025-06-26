@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: |
-        Welcome to the Boreal-Arctic Biogeography Lab!
+        Welcome to the Boreal-Arctic Biogeochemistry Lab!
       text: |
         <center> The BAB Lab is located in the University of British Columbia’s Geography Department, which we respectfully acknowledge exist on the traditional, ancestral, and unceded territories of the hən̓q̓əmin̓əm̓-speaking xʷməθkʷəy̓əm (Musqueam) people, the Halq'eméylem speaking Coast Salish people, including the Sto:lo and the Seabird Island First Nations.</center>
         <br>
