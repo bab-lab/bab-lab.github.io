@@ -30,7 +30,7 @@ sections:
       title: |
         <center> Current Positions! </center>
       text: |
-        <center> We are currently looking to fill 2-3 graduate student positions for the 2025-2026 admissions cycle to work on 2 projects. We are looking for 1-2 graduate students (Msc or PhD) to join the team to work on our NSERC Discovery funded alpine tundra methane cycling project, with fieldwork in Northern BC and Yukon.  We are looking for 1 Msc student to help with a collaborative lake monitoring project focusing on the impacts of warming on oxygen and carbon cycling dynamics in northern glacial lakes. Both projects focus on field data collections with opportunities for laboraotory work including growth chamber experiments. If you are interested, please fill reach out to Dr. Kuhn describing your background and which project you are interseted in.  </center>
+        <center> We are currently looking to fill 2-3 graduate student positions for the 2025-2026 admissions cycle to work on 2 projects. We are looking for 1-2 graduate students (Msc or PhD) to join the team to work on our NSERC Discovery funded alpine tundra methane cycling project, with fieldwork in Northern BC and Yukon.  We are looking for 1 Msc or PhD student to help with a collaborative lake monitoring project focusing on the impacts of warming on oxygen and carbon cycling dynamics in northern glacial lakes. Both projects focus on field data collections with opportunities for laboraotory work including growth chamber experiments. If you are interested, please fill reach out to Dr. Kuhn describing your background and which project you are interseted in.  </center>
     design:
       columns: '1'
       background:
