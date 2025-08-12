@@ -34,7 +34,7 @@ sections:
           color: '#555'
       - title: How are we approaching these problems?
         content: 'We aim to quantify the impacts of warming, permafrost thaw, and wildfire on water quality, carbon emission and storage, and nutrient cycling using a variety of tools. <br> Examples of our research approaches include: <br>
-          1) utilizing high-frequency temperature and water level loggers to assess the factors controlling lake warming and water level drops in northern British Columbia; <br>
+          1) utilizing high-frequency data collections to quantify the impacts of warming on oxygen and carbon dynamics in glacial lakes in northern British Columbia and Yukon; <br>
           2) measuring field-based emissions of methane from emergent vegetation in boreal lakes using portable infrared greenhouse gas analyzers; <br>
           3) conducting laboratory experiments to understand the impact of sediment warming on microbial community composition and potential methane production.'
         align: center
