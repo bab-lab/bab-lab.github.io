@@ -30,7 +30,7 @@ sections:
       title: |
         <center> Current Positions! </center>
       text: |
-        <center> We are currently looking to fill 1-2 graduate student positions for the 2025-2026 admissions cycle. We are looking for 1-2 graduate students to join the team to work on our NSERC Discovery funded alpine tundra methane cycling project, with fieldwork in Northern BC and Yukon. If you are interested, please fill out the prospective student Google Form. </center>
+        <center> We are currently looking to fill 2-3 graduate student positions for the 2025-2026 admissions cycle to work on 2 projects. We are looking for 1-2 graduate students (Msc or PhD) to join the team to work on our NSERC Discovery funded alpine tundra methane cycling project, with fieldwork in Northern BC and Yukon.  We are looking for 1 Msc student to help with a collaborative lake monitoring project focusing on the impacts of warming on oxygen and carbon cycling dynamics in northern glacial lakes. Both projects focus on field data collections with opportunities for laboraotory work including growth chamber experiments. If you are interested, please fill reach out to Dr. Kuhn describing your background and which project you are interseted in.  </center>
     design:
       columns: '1'
       background:
@@ -67,7 +67,7 @@ sections:
       title: |
         Prospective Undergraduate Students
       text: |
-        We also happily welcome emails from UBC undergraduate students interested in joining the lab. Lab opportunities can include honours thesis projects through the Geography Department or Work Learn positions. We will also be looking to hire undergraduate field assistants for the 2026 field season. If you are an undergraduate at UBC and you are interested in working the lab and finding out more about upcoming positions, please email Dr. Kuhn at mckenzie.kuhn@ubc.ca. <b> Note that prior lab or field experience is not required. </b>
+        We also happily welcome emails from UBC undergraduate students interested in joining the lab. Lab opportunities can include honours thesis/Direct Studies projects through the Geography Department or Work Learn positions. We will also be looking to hire undergraduate field assistants for the 2026 field season. If you are an undergraduate at UBC and you are interested in working the lab and finding out more about upcoming positions, please email Dr. Kuhn at mckenzie.kuhn@ubc.ca. <b> Note that prior lab or field experience is not required. </b>
     design:
       columns: '2'
       background:
