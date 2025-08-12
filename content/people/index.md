@@ -30,10 +30,10 @@ sections:
       title: | 
         McKenzie Kuhn (Ph.D.) <br>
       subtitle: |
-        Primary Investigator (she/her)
+        Principal Investigator (she/her)
         <img src="kuhn-profile.jpg" alt="McKenzie" width="300" />
       text: |
-        I am a biogeochemist and physical geographer with interests in carbon and nutrient cycling in northern boreal and Arctic ecosystems.  From northern Sweden to western boreal Canada, I look to understand how climate change, including warming temperatures, wildfire, and permafrost thaw, will impact northern ecosystems. In my new role at UBC, I am most excited to share my love for northern research through mentoring undergraduate and graduate students. In my free time I love to explore the great outdoors via waterways and cycling. 
+        I am a biogeochemist and physical geographer with interests in carbon and nutrient cycling in northern boreal and Arctic ecosystems.  From northern Sweden to western boreal Canada, I look to understand how climate change, including warming temperatures, wildfire, and permafrost thaw, will impact northern ecosystems. In my new role at UBC, I am most excited to share my love for northern research through mentoring undergraduate and graduate students. In my free time I love to explore the great outdoors via kayak, bike or ferry! 
         <br> 
         
         **Previous Positions**:
