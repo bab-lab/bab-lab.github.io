@@ -37,7 +37,7 @@
 <h3 align="center">The Boreal Arctic Biogeochemistry Lab Website</h3>
 
   <p align="center">
-    Welcome to the University of British Columbia's Boreal Arctic Biogeochemistry Lab, or as we like to call it BAB Lab's, Github Website! Thank you for taking a gander over here, and feel free to learn a bit more about our lab through this README, or even better go ahead and visit the <a href="https://bab-lab.github.io"><strong>website</strong></a> itself!
+    Welcome to the University of British Columbia's Boreal Arctic Biogeochemistry Lab, or as we like to call it BAB Lab's, Github Website, led by Dr. McKenzie Kuhn! Feel free to learn a bit more about our lab through this README, or even better go ahead and visit the <a href="https://bab-lab.github.io"><strong>website</strong></a> itself!
     <br />
     <a href="https://github.com/bab-lab/bab-lab.github.io"><strong>Explore the Website's Backend »</strong></a>
     <br />
