@@ -53,4 +53,17 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+  - block: markdown
+    content:
+      title: Photos from Terrestrial Projects! 
+      text: |
+        <div class="photo-gallery">
+          <img src="/images/field/IMG_1370.jpeg" alt="Field photo 1" />
+          <img src="/images/field/IMG_1473.jpeg" alt="Field photo 2" />
+          <img src="/images/field/IMG_1501.jpeg" alt="Field photo 3" />
+          <img src="/images/field/IMG_1691.jpeg" alt="Field photo 4" />
+          <img src="/images/field/IMG_6255.jpeg" alt="Field photo 5" />
+        </div>
+    spacing:
+      padding: ["0", "0", "0", "0"]   
 ---
