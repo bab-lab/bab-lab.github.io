@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assitant 
+role: Undergraduate Research Assistant 
 
 # Organizations/Affiliations
 organizations:
