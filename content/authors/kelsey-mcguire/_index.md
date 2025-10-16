@@ -22,7 +22,7 @@ organizations:
     url: 'https://geog.ubc.ca'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kelsey is a MSc student studying Methane dynamics in Kaska (Northern British Columbia) lakes with a focus on understanding how aquatic vegetation factors into carbon exchanges.
+bio: Kelsey is a MSc student studying Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake with a focus on understanding how aquatic vegetation factors into carbon exchanges.
 
 interests:
   - Land-Atmosphere Climate Interactions
@@ -62,4 +62,4 @@ email: 'kmcgu@student.ubc.ca'
 user_groups:
   - Current Students
 ---
-I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics in Kaska (Northern British Columbia) lakes. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.
+I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.

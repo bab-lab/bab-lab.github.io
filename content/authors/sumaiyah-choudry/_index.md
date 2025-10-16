@@ -25,7 +25,8 @@ organizations:
 bio: Sumaiyah is a BSc WorkLearn student excited to explore how vegetation and ecosystem processes shape methane cycling in boreal and Arctic landscapes.
 
 interests:
-  - 
+  - Climate - Vegetation Interactions
+  - Arctic Ecosystems
 
 education:
   courses:
@@ -39,6 +40,12 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:schoudry@student.ubc.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: http://www.linkedin.com/in/sumaiyah-choudry-2849b526a
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -47,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 
+email: schoudry@student.ubc.ca
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
