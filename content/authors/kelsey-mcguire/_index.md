@@ -22,7 +22,7 @@ organizations:
     url: 'https://geog.ubc.ca'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kelsey is a MSc student studying Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake with a focus on understanding how aquatic vegetation factors into carbon exchanges.
+bio: Kelsey was a MSc student studying Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake with a focus on understanding how aquatic vegetation factors into carbon exchanges.
 
 interests:
   - Land-Atmosphere Climate Interactions
@@ -34,6 +34,9 @@ education:
     - course: BSc in Geographical Sciences
       institution: University of British Columbia
       year: 2024
+    - course: MSc in Geography
+      institution: University of British Columbia
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kmcgu@student.ubc.ca'
+    link: 'mailto:kmcguire.9@outlook.com'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kelsey-mcguire-6b2285206
@@ -55,11 +58,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kmcgu@student.ubc.ca'
+email: 'kmcguire.9@outlook.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Alumni
 ---
-I am pursuing a Masters of Science within the lab, where my thesis aims to understand how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.
+I pursued a Masters of Science within the lab, where my thesis explored how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.
