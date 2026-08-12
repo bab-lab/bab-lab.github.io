@@ -60,3 +60,4 @@ abstract: Permafrost thaw in peatlands risks increasing the production and mobil
 links:
 - name: URL
   url: https://doi.org/10.1021/acs.est.5c04510
+---
