@@ -1,6 +1,5 @@
 ---
 title: An ice sheet-to-ocean analysis of carbon stores and fluxes in Earth's polar
-<<<<<<< HEAD
   regions (RECCAP2, Polar Ice Sheets)
 authors:
 - Jemma L Wadham
@@ -73,24 +72,3 @@ abstract: 'The polar ice sheets, their surrounding land fringes and oceans (68 x
   associated with the Greenland Ice Sheet. Such high uncertainty in polar carbon reservoirs
   and fluxes is important to resolve if future feedbacks between the polar regions,
   Earthtextquoterights carbon cycle and climate are to be conclusively determined. '
-=======
-  regions (RECCAP2, polar ice sheets)
-authors:
-- Jemma Louise Wadham
-- Guillaume Lamarche-Gagnon
-- Sandra Arndt
-- Elizabeth A Bagshaw
-- Sydneyblu Garcia-Yao
-- Daniel Goldberg
-- Jon R Hawkings
-- Katharine Hendry
-- Robert G Hilton
-- Gustaf Hugelius
-- ' others'
-date: '2026-01-01'
-publishDate: '2026-05-21T00:19:00.043407Z'
-publication_types:
-- article-journal
-publication: '*Global Biogeochemical Cycles*'
->>>>>>> e01847cd119d90cc6ee0c013846b4fb823de640b
----
