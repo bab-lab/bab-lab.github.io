@@ -2,6 +2,7 @@
 title: A global methane observation system to track climate feedbacks for verifiable
   climate impact
 authors:
+<<<<<<< HEAD
 - Jennifer D. Watts
 - Elsa Ordway
 - Sparkle L. Malone
@@ -79,4 +80,22 @@ abstract: Methane measurements, particularly of natural sources, need to be expa
 links:
 - name: URL
   url: https://www.science.org/doi/abs/10.1126/science.aef0459
+=======
+- Jennifer D Watts
+- Elsa Ordway
+- Sparkle L Malone
+- Qing Zhu
+- Paul I Palmer
+- Dhruv Patel-Tupper
+- Philippe Ciais
+- Fa Li
+- Danielle R Monteverde
+- Kyle A Arndt
+- ' others'
+date: '2026-01-01'
+publishDate: '2026-05-21T00:19:00.014644Z'
+publication_types:
+- article-journal
+publication: '*Science*'
+>>>>>>> e01847cd119d90cc6ee0c013846b4fb823de640b
 ---
