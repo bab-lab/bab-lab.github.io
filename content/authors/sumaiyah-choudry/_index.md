@@ -59,7 +59,7 @@ email: schoudry@student.ubc.ca
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Lab Members
 ---
 I am an undergraduate student in the Faculty of Forestry at the University of British Columbia, studying Natural Resources Conservation with a Science and Management focus.
 Previously, I worked at the Avilès Lab in the Biodiversity Research Centre, where I investigated spider body and web size across elevational gradients. At the BAB Lab, I am excited to explore how vegetation and ecosystem processes shape methane cycling in boreal and Arctic landscapes. I am particularly interested in how environmental change influences carbon dynamics across northern ecosystems.
