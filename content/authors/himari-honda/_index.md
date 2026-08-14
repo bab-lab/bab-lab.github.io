@@ -59,6 +59,6 @@ email: 'himari.honda@ubc.ca'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Lab Members
 ---
 I am a MSc student in the BAB lab and am interested in how climate change has been impacting Arctic greenhouse gas emissions and how accurate our current flux estimates are. I explore areas of data synthesis and scaling to improve current models and future prediction for emissions. To address these questions, I collaborate with researchers developing the most comprehensive Arctic-boreal carbon dioxide and methane flux dataset, to date. Some of my hobbies include baking, sudoku, and window shopping!
