@@ -63,6 +63,6 @@ email: 'kmcguire.9@outlook.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Past Lab Members
 ---
 I pursued a Masters of Science within the lab, where my thesis explored how aquatic, mainly submerged and emergent, vegetation alters Methane dynamics along the shoreline of a Kaska (Northern British Columbia) lake. Before entering the lab, I earned a BSc in Geographical Sciences from the University of British Columbia. Outside of school, you can often find me listening to some music, curled up with a book, and staying out of the pesky Vancouver rain.
