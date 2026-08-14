@@ -14,9 +14,8 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Current Students
-          - Visitors
-          - Alumni
+          - Current Lab Members
+          - Past Lab Members
       sort_by: Params.last_name
       sort_ascending: true
     design:
