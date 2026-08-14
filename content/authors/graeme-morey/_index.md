@@ -57,11 +57,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'himari.honda@ubc.ca'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Lab Members
 ---
 I am pursuing a BSc in Natural Resources Conservation in the Faculty of Forestry. In this lab, I am assisting with soil sample processing and geoanalyzing historic aerial imagery to track treeline shifts in the Cassiar Mountains (Northern British Columbia). Prior to working in this lab, I have worked for industrial forestry in both the interior and coastal regions of BC, and for both marine conservation and wildfire labs at UBC. I look forward to the opportunity to work with the BAB lab on current and future projects.
