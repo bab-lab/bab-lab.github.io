@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,8 @@ interests:
 
 education:
   courses:
+    - course: In progress, Ph.D. Department of Geography 
+      institution: University of British Columbia
     - course: In progress, Ms.c. Department of Geography 
       institution: University of British Columbia
     - course: B.S. Marine and Environmental Science, Concentration in Climate and Earth
@@ -58,7 +60,7 @@ email: 'lyreshka.castromorales@ubc.ca'
 #  Set this to `[]` or comment out if you are not using People widget.
 #  options: Principal Investigator, Researchers, Graduate Students, Undergraduates, Visitors, Alumni
 user_groups:
-  - Current Students
+  - Current Lab Members
 ---
 As a Master’s student at the University of British Columbia, I work in northern British Columbia studying how climate change influences methane fluxes in upland tundra. My research focuses on how vegetation (mainly shrubs) interacts with warming temperatures, soil moisture, and nutrient availability to shape methane uptake and emissions. My aim is to understand how these rapidly changing landscapes contribute to, or help mitigate, atmospheric greenhouse gas concentrations.
 I’m also passionate about making science accessible—whether through mentorship or creative outreach like zines, photography, and illustration. Through my work, I hope to bridge science, community, and creativity to foster more inclusive and grounded approaches to climate communication.
