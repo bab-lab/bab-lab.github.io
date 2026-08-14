@@ -59,6 +59,6 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Students
+  - Current Lab Members
 ---
 I'm an undergraduate student majoring in human geography and philosophy. Currently, I'm working on a project dealing with water quality monitoring data for five lakes in Northern B.C., in collaboration with the Kaska Land Guardians. My interests include effective co-creation of research with communities; policy and decision support systems; disaster response and emergency management; traditional and region-specific food security; belief and epistemology. In my free time, I'm drawing, reading, volunteering, or on a walk looking up at the clouds.
